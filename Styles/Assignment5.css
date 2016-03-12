@@ -1,0 +1,25 @@
+section.section1 {
+margin: 0 auto;
+visibility: hidden;
+position: absolute;
+width: 600px;
+}
+
+section.section2 {
+margin: 0 auto;
+visibility: hidden;
+position: absolute;
+width: 600px;
+}
+
+table, th, td {
+border: 1px solid black;
+text-align:justify;
+}
+
+
+#footer {
+width: 600px;
+position: absolute;
+margin-top: 420px;
+}
